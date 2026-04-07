@@ -1,0 +1,5 @@
+Perbaikan bug terbaru:
+1. Listener realtime Firebase sekarang diaktifkan setelah login, sehingga supplier, grading, dan TD termuat realtime.
+2. Field email di login hanya ada pada halaman login dan sekarang bisa diedit manual, meski tetap otomatis terisi saat pilih role.
+3. Modal dan overlay ditutup lebih aman agar tidak menutupi area klik form/tombol.
+4. Loading state di-reset saat logout dan sesi login ditangani lebih stabil.
